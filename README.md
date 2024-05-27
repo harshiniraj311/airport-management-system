@@ -1,7 +1,3 @@
-Certainly! Here's a template for the README file for your Airport Management System project:
-
----
-
 # Airport Management System
 
 ## Overview
