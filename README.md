@@ -7,6 +7,7 @@ The Airport Management System is a Python-based application designed to streamli
 - **Flight Management**: Add, delete, and view flight details including flight number, arrival time, and burst time.
 - **Passenger Management**: Add, delete, and view passenger details associated with flights.
 - **Task Scheduling Algorithms**: Implements task scheduling algorithms to efficiently schedule flights based on arrival and burst times.
+- **Collision Handling with Delay Period**: Manages collisions by introducing a delay period to ensure smooth operation.
 - **GUI Interface**: Provides a graphical user interface built using Tkinter for easy interaction and navigation.
 - **Persistent Data Storage**: Utilizes SQLite database to store flight and passenger information, ensuring data integrity and persistence.
 
