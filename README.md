@@ -44,4 +44,18 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this template according to your project's specifics and requirements.
+## Demo
+
+### 1. Application
+<img width="959" height="auto" alt="1" src="https://github.com/harshiniraj311/airport-management-system/assets/155360804/486d2a19-6841-478a-9aa9-060714b525ed">
+
+### 2. View Flights
+<img width="269" height="auto" alt="2" src="https://github.com/harshiniraj311/airport-management-system/assets/155360804/0146b561-ca74-479a-8142-7d38d6c6f75f">
+
+### 3. Scheduled Flights
+<img width="302" height="auto" alt="3" src="https://github.com/harshiniraj311/airport-management-system/assets/155360804/a6fadc39-adad-4026-bb28-0ca19a95df70">
+
+### 4. View Passengers
+<img width="236" height="auto" alt="4" src="https://github.com/harshiniraj311/airport-management-system/assets/155360804/abe8183e-8b36-418f-b1eb-4f30915c1362">
+
+
