@@ -1,7 +1,7 @@
 # Airport Management System
 
 ## Overview
-The Airport Management System is a Python-based application designed to streamline flight and passenger management operations at an airport. It offers a user-friendly interface to facilitate tasks such as adding, deleting, and viewing flights and passengers, along with implementing task scheduling algorithms for efficient flight scheduling.
+The Airport Management System is a Python-based application designed to streamline flight and passenger management operations at an airport. It offers a user-friendly interface to facilitate tasks such as adding, deleting, and viewing flights and passengers, along with implementing task scheduling algorithms and handling collisions for efficient flight scheduling.
 
 ## Features
 - **Flight Management**: Add, delete, and view flight details including flight number, arrival time, and burst time.
@@ -36,6 +36,12 @@ python app.py
 - Python 3.x
 - Tkinter
 - SQLite
+
+To install the required Python packages, you can use the `requirements.txt` file provided. Run the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
